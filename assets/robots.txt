@@ -1,0 +1,2 @@
+Sitemap: https://lukaihn.dev/sitemap.xml
+Sitemap: https://lukaihn.dev/feed.xml

@@ -1,0 +1,18 @@
+title: Hello World
+---
+pub_date: 2023-11-15
+---
+author: Luka
+---
+body:
+
+Not a full post.
+
+[//]: # (PLUGIN-READ-FULL-POST)
+
+Full post.
+
+---
+twitter_handle: lllkihn
+---
+excerpt:

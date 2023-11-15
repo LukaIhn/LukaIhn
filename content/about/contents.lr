@@ -1,0 +1,17 @@
+_model: page
+---
+body:
+
+### Hi there 👋
+
+I'm @lukaihn and I do ML.
+
+A short summary about me:
+- 💬 Ask me about ML, DL, model validation
+- 📫 How to reach me: [Linkedin]
+- 😄 Pronouns: he/him
+
+If you think I abandoned this site, drop by [my github][GitHub] to see if I'm still alive. Also, don't be surprised if something seems outdated — it probably is. Enjoy exploring!
+
+[GitHub]: https://github.com/LukaIhn
+[Linkedin]: https://www.linkedin.com/in/lukaihn/

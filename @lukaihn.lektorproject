@@ -1,0 +1,28 @@
+[project]
+name = @lukaihn's ramblings
+locale = en_US
+
+# Refs:
+# * https://github.com/lektor/lektor-atom/issues/4
+# * https://github.com/lektor/lektor-atom/issues/21
+url = https://lukaihn.dev
+# NOTE: breaks RSS/atom
+# url_style = relative
+
+[packages]
+lektor-markdown-highlighter = 0.3.2
+lektor-atom = 0.4.0
+lektor-read-full-post = 0.3
+Lektor-Open-Graph = 1b4
+lektor-markdown-admonition = 0.3.1
+
+# FIXME: Breaks RSS/atom?
+# [alternatives.en]
+# name = English
+# primary = yes
+# locale = en_US
+# 
+# [alternatives.uk]
+# name = Ukrainian
+# url_prefix = /uk/
+# locale = uk_UA
