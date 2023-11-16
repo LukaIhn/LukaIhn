@@ -6,8 +6,6 @@
     the GitHub's Markdown parser to recongnize the markup,
     it doesn't work otherwise.
   -->
-
-  [![lukaihn.dev header][www header img]][lukaihn.dev]
 </center>
 
 [lukaihn.dev]: https://lukaihn.dev
