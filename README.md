@@ -11,4 +11,3 @@
 </center>
 
 [lukaihn.dev]: https://lukaihn.dev
-[www header img]: content/lukaihn.dev-header.svg
